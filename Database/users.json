@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "625d03d7b99f5571b7471ef8"
+  },
+  "name": "do1234",
+  "email": "lehuudo22222@gmail.com",
+  "password": "$2a$10$s1osBlddQYVJhE5N9Skdg.4oo.VhsgfavqbBhA4Yq3F0HVTHcxnIS",
+  "avatar": {
+    "public_id": "this is a sample id",
+    "url": "https://res.cloudinary.com/dob5mpih9/image/upload/v1657988786/cld-sample.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650262999567"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660150431694"
+    }
+  },
+  "__v": 0,
+  "shippingInfo": "[object Object]"
+},{
+  "_id": {
+    "$oid": "62dac822b6cb8f9d437fec10"
+  },
+  "name": "lê Độ",
+  "email": "lehuudo.haui.k13@gmail.com",
+  "password": "$2a$10$9ELn9/47wwr4PEnowNLf4OZxgMtmOlujoime/bZqe9IRzxhcscMGS",
+  "avatar": {
+    "public_id": "avatars/qifpocv5ygzpldjbaiz4",
+    "url": "https://res.cloudinary.com/dob5mpih9/image/upload/v1658505250/avatars/qifpocv5ygzpldjbaiz4.png"
+  },
+  "role": "staff",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658505250345"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1659591013978"
+    }
+  },
+  "__v": 0,
+  "shippingInfo": {
+    "city": "55",
+    "state": "55",
+    "country": "55",
+    "address": "55",
+    "phoneNo": "55555555"
+  },
+  "resetPasswordExpire": {
+    "$date": {
+      "$numberLong": "1659591913978"
+    }
+  },
+  "resetPasswordToken": "052cf00bfa049c15f96491cc6e8690a146489f9de26532cfeadab25e4d65d2e4"
+},{
+  "_id": {
+    "$oid": "62e80470d5ff2408de9fc9d3"
+  },
+  "name": "Lê Hữu Độ",
+  "email": "lehuudo2k@gmail.com",
+  "password": "$2a$10$VWigT1FwVpezpGtUMSIRMuHWqaJ.nlyT1zdqDLN9uBtywKjoLzPG6",
+  "avatar": {
+    "public_id": "avatars/sfiusfuxck9yixdlxz3b",
+    "url": "https://res.cloudinary.com/dob5mpih9/image/upload/v1659372657/avatars/sfiusfuxck9yixdlxz3b.jpg"
+  },
+  "role": "admin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659372656230"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660501605665"
+    }
+  },
+  "__v": 0,
+  "shippingInfo": {
+    "city": "324",
+    "state": "324",
+    "country": "324",
+    "address": "325",
+    "phoneNo": "0967317903"
+  },
+  "resetPasswordExpire": {
+    "$date": {
+      "$numberLong": "1659591888008"
+    }
+  },
+  "resetPasswordToken": "1a3668d70c47a2947466ba213115bae0c8ca88c98dcfacf9ad694afa3f0ad322"
+},{
+  "_id": {
+    "$oid": "62f731b6071be678796a46c4"
+  },
+  "name": "Độ haui",
+  "email": "lehuudo.haui.k123@gmail.com",
+  "password": "$2a$10$qoFOoTRPfPYRvrtwcySeb.vb9162hwCWgJh4gHmg3xl6RWYC5xPOa",
+  "avatar": {
+    "public_id": "avatars/mfr1vbudawvp98brsxsr",
+    "url": "https://res.cloudinary.com/dob5mpih9/image/upload/v1660367285/avatars/mfr1vbudawvp98brsxsr.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660367286212"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660367286212"
+    }
+  },
+  "__v": 0
+}]

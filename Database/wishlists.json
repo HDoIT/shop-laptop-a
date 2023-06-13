@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6274d4ff16df3c2da71c2869"
+  },
+  "wishlistItems": [
+    {
+      "name": "abc",
+      "image": "https://res.cloudinary.com/dob5mpih9/image/upload/v1658503743/products/pbaqyy8utwt2al6m1hfs.png",
+      "product": {
+        "$oid": "62dac23fdb8f7b3a628a2091"
+      },
+      "_id": {
+        "$oid": "62e129e8654d9af2937a3dee"
+      }
+    },
+    {
+      "name": "Laptop DEll",
+      "image": "https://res.cloudinary.com/dob5mpih9/image/upload/v1658223209/products/xtnaruzixxiksgfkdhst.png",
+      "product": {
+        "$oid": "62d67a69865f3038b9ace143"
+      },
+      "_id": {
+        "$oid": "62e129eb654d9af2937a3df7"
+      }
+    }
+  ],
+  "user": {
+    "$oid": "625cfe6c2bdf267ecb4dcdac"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1651823871155"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1658923499873"
+    }
+  },
+  "__v": 11
+},{
+  "_id": {
+    "$oid": "62e92c284c83db45fc3ec3a2"
+  },
+  "wishlistItems": [],
+  "user": {
+    "$oid": "62e80470d5ff2408de9fc9d3"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1659448360824"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660488277537"
+    }
+  },
+  "__v": 5
+}]

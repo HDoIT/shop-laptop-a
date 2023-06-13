@@ -1,0 +1,171 @@
+[{
+  "_id": {
+    "$oid": "6263a8d68352844c9279bcad"
+  },
+  "name": "ASUS",
+  "description": "AsusTek Computer Inc. là một tập đoàn đa quốc gia có trụ sở chính tại Đài Loan, chuyên sản xuất các mặt hàng điện tử và phần cứng máy tính như máy tính để bàn, máy tính xách tay, netbook, điện thoại di động, thiết bị mạng, màn hình, bộ định tuyến WIFI, máy chiếu, bo mạch chủ, card đồ họa, thiết bị lưu trữ quang học, ...",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650698454322"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660466204681"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6263a9088352844c9279bcb0"
+  },
+  "name": "MSI",
+  "description": "MSI là một tập đoàn công nghệ thông tin đa quốc gia có trụ sở chính ở Tân Bắc, Đài Loan, với logo là một con rồng màu đỏ.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650698504269"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660466273377"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e16a64b5c21ac5a28b5aab"
+  },
+  "name": "APPLE",
+  "description": "Apple Inc. là một tập đoàn công nghệ đa quốc gia của Mỹ có trụ sở chính tại Cupertino, California, chuyên thiết kế, phát triển và bán thiết bị điện tử tiêu dùng, phần mềm máy tính và các dịch vụ trực tuyến.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658940004694"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660466288423"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e16a6eb5c21ac5a28b5ab3"
+  },
+  "name": "SAMSUNG",
+  "description": "Samsung (Tiếng Hàn: 삼성, Romaja: Samseong, Hanja: 三星; Hán-Việt: Tam Tinh - 3 ngôi sao) là một tập đoàn đa quốc gia của Hàn Quốc có trụ sở chính đặt tại Samsung Town, Seocho, Seoul. Tập đoàn sở hữu rất nhiều công ty con, chuỗi hệ thống bán hàng cùng các văn phòng đại diện trên toàn cầu hoạt động dưới tên thương hiệu mẹ. Đây là một trong những thương hiệu công nghệ đắt giá nhất thế giới.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658940014228"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660466372622"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e16a76b5c21ac5a28b5aba"
+  },
+  "name": "DELL",
+  "description": "Dell Inc. là một công ty đa quốc gia của Hoa Kỳ về phát triển và thương mại hóa công nghệ máy tính có trụ sở tại Round Rock, Texas, Hoa Kỳ. Dell được thành lập năm 1984 do chủ quản gia Michael Dell đồng sáng lập. Đây là công ty có thu nhập lớn thứ 28 tại Hoa Kỳ.",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658940022611"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660466388124"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62e16a80b5c21ac5a28b5ac0"
+  },
+  "name": "ACER",
+  "description": "Acer Inc. là tập đoàn đa quốc gia về thiết bị điện tử và phần cứng máy tính của Đài Loan có trụ sở tại Tịch Chỉ, Tân Bắc, Đài Loan. Các sản phẩm của Acer bao gồm các loại máy tính để bàn và laptop, máy tính bảng, server, các thiết bị lưu trữ, màn hình hiển thị, smartphone và các thiết bị ngoại vi",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658940032721"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660466405400"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f8b444cf244fe001d58c57"
+  },
+  "name": "HP",
+  "description": "Hewlett-Packard Development Company, L.P.\r\nNgày thành lập: 25 tháng 9, 1998\r\nCông ty mẹ: Hewlett-Packard",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660466244082"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660466244082"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f8b50dcf244fe001d58c7b"
+  },
+  "name": "LENOVO",
+  "description": "Lenovo Group Ltd. là tập đoàn đa quốc gia về công nghệ máy tính có trụ sở chính ở Bắc Kinh, Trung Quốc và Morrisville, Bắc Carolina, Mỹ. ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660466445792"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660466445792"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f8b534cf244fe001d58c81"
+  },
+  "name": "RAZER",
+  "description": "Razer Inc. là một công ty của Mỹ được thành lập bởi Min-Liang Tan, và Robert Krakoff có trụ sở ở Irvine, California, chuyên kinh doanh các sản phẩm dành cho game thủ. ",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660466484641"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660466493096"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62f8b558cf244fe001d58c8c"
+  },
+  "name": "Other",
+  "description": "Các thương hiệu laptop khác...",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660466520690"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660466520690"
+    }
+  },
+  "__v": 0
+}]

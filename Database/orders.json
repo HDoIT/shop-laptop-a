@@ -1,0 +1,64 @@
+[{
+  "_id": {
+    "$oid": "62f93e65b4b23b9a0e76eabe"
+  },
+  "shippingInfo": {
+    "address": "325",
+    "city": "324",
+    "state": "324",
+    "country": "324",
+    "phoneNo": 967317903
+  },
+  "orderItems": [
+    {
+      "name": "Laptop Asus VivoBook A1503ZA-L1421W",
+      "price": 19299000,
+      "priceSale": 18334050,
+      "quantity": 1,
+      "discountActive": true,
+      "discountPercent": 5,
+      "image": "https://res.cloudinary.com/dob5mpih9/image/upload/v1660478117/products/bpwfggli3elfjab6kcrh.png",
+      "product": {
+        "$oid": "62f8b941b4b23b9a0e76c3af"
+      },
+      "_id": {
+        "$oid": "62f93e58b4b23b9a0e76eaad"
+      }
+    }
+  ],
+  "name": "Lê Hữu Độ",
+  "email": "lehuudo2k@gmail.com",
+  "user": {
+    "$oid": "62e80470d5ff2408de9fc9d3"
+  },
+  "paymentInfo": {
+    "id": "abc",
+    "type": "Chuyển khoản ngân hàng",
+    "status": "Chưa thanh toán"
+  },
+  "paidAt": {
+    "$date": {
+      "$numberLong": "1660501605691"
+    }
+  },
+  "itemsPrice": 18334050,
+  "shippingPrice": 0,
+  "totalPrice": 18334050,
+  "orderStatus": "Delivered",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660501605693"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660501636743"
+    }
+  },
+  "__v": 0,
+  "deliveredAt": {
+    "$date": {
+      "$numberLong": "1660501636743"
+    }
+  }
+}]

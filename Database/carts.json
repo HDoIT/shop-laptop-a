@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "62e129bc654d9af2937a3d48"
+  },
+  "cartItems": [
+    {
+      "name": "laptop asus",
+      "price": 5260000,
+      "priceSale": 5260000,
+      "quantity": 1,
+      "discountActive": false,
+      "discountPercent": 0,
+      "image": "https://res.cloudinary.com/dob5mpih9/image/upload/v1658037105/products/250_61620_laptop_acer_aspire_a514_54_20_s6ichl.jpg",
+      "product": {
+        "$oid": "6263a9848352844c9279bcb8"
+      },
+      "_id": {
+        "$oid": "62e129bc654d9af2937a3d49"
+      }
+    },
+    {
+      "name": "abc",
+      "price": 22222222,
+      "priceSale": 22222222,
+      "quantity": 1,
+      "discountActive": false,
+      "discountPercent": 0,
+      "image": "https://res.cloudinary.com/dob5mpih9/image/upload/v1658503743/products/pbaqyy8utwt2al6m1hfs.png",
+      "product": {
+        "$oid": "62dac23fdb8f7b3a628a2091"
+      },
+      "_id": {
+        "$oid": "62e129e0654d9af2937a3de1"
+      }
+    }
+  ],
+  "totalPrice": 27482222,
+  "user": {
+    "$oid": "625cfe6c2bdf267ecb4dcdac"
+  },
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1658923452332"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1659371969369"
+    }
+  },
+  "__v": 5
+}]

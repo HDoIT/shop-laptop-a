@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "62f939d4b4b23b9a0e76e9c3"
+  },
+  "title": "Banner Home",
+  "description": "Banner cho trang chủ",
+  "status": true,
+  "images": [
+    {
+      "public_id": "banners/mwiox0hwsn1qxbnazelw",
+      "url": "https://res.cloudinary.com/dob5mpih9/image/upload/v1660501729/banners/mwiox0hwsn1qxbnazelw.jpg",
+      "_id": {
+        "$oid": "62f93ee5b4b23b9a0e76eb40"
+      }
+    },
+    {
+      "public_id": "banners/epcpy5vfswruqzeapnra",
+      "url": "https://res.cloudinary.com/dob5mpih9/image/upload/v1660501731/banners/epcpy5vfswruqzeapnra.jpg",
+      "_id": {
+        "$oid": "62f93ee5b4b23b9a0e76eb41"
+      }
+    },
+    {
+      "public_id": "banners/lcz8hypcvxrhnn9j5dqn",
+      "url": "https://res.cloudinary.com/dob5mpih9/image/upload/v1660501733/banners/lcz8hypcvxrhnn9j5dqn.jpg",
+      "_id": {
+        "$oid": "62f93ee5b4b23b9a0e76eb42"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1660500436074"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1660501733694"
+    }
+  },
+  "__v": 0
+}]
